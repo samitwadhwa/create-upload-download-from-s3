@@ -1,0 +1,36 @@
+{
+  "legalEntities": [
+    {
+      "vopakId": "104030",
+      "vaktId": "TNF9A29448"
+    },
+    {
+      "vopakId": "13100233",
+      "vaktId": "TNC1AC8E54"
+    },
+    {
+      "vopakId": "13100999",
+      "vaktId": "TNC1AC4C8C"
+    }
+  ],
+  "locations": [
+    {
+      "vopakId": "104030",
+      "vaktId": "PI1D31AD4"
+    }
+  ],
+  "products": [
+    {
+      "vopakId": "714978",
+      "vopakName": "GASOLIE MAX 0,001",
+      "vopakCustomerName": "ULSD",
+      "vaktId": "PG00001094"
+    },
+    {
+      "vopakId": "715410",
+      "vopakName": "ZWARE AROM.OLIE,ANDERE K-3",
+      "vopakCustomerName": null,
+      "vaktId": "PG00001052"
+    }
+  ]
+}
